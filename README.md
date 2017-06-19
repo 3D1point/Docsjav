@@ -1,0 +1,2 @@
+# Docsjav
+platform independent script
